@@ -1,4 +1,4 @@
-# tau-pytest-bdd
+# example-pytest-bdd
 This repository contains example code for the
 *Behavior-Driven Python with pytest-bdd* course
 from [Test Automation University](https://testautomationu.applitools.com/).
